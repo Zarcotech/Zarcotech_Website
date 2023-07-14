@@ -1,0 +1,136 @@
+{
+    "accounts" : {
+        "1" : {
+            "ZarcoMail" : "zidan.harb@admin.zarcomail.com",
+            "Password" : "H082712s",
+            "Name": "Zidan Harb",
+            "Role": "CEO"
+        },
+        "2": {
+            "ZarcoMail" : "youssef.omran@admin.zarcomail.com",
+            "Password" : "YOP2963",
+            "Name": "Youssef Omran",
+            "Role": "CFO"
+        },
+        "3":{
+            "ZarcoMail": "arham.hassan@zarcomail.com",
+            "Password" : "KTP8721",
+            "Name":"Arham Hassan",
+            "Role": "Junior Engineer"
+        },
+        "4":{
+            "ZarcoMail": "nazif.khan@zarcomail.com",
+            "Password" : "Nazifk30",
+            "Name": "Nazif Khan",
+            "Role": "Novice Coder"
+        },
+        "5":{
+            "ZarcoMail": "elhabashy@zarcomail.com",
+            "Password" : "EP1764",
+            "Name": "Elhabashy",
+            "Role": "Novice Coder"
+        },
+        "6":{
+            "ZarcoMail": "zoe.hinojosa.medina@zarcomail.com",
+            "Password" : "ZHMP2839",
+            "Name":"Zoe Hinojosa Medina",
+            "Role":"Senior Coder"
+        },
+        "7":{
+            "ZarcoMail": "fayrouz.harb@zarcomail.com",
+            "Password" : "78749",
+            "Name":"Fayrouz Harb",
+            "Role":"Novice Coder"
+        },
+        "8":{
+            "ZarcoMail": "f.m.t@zarcomail.com",
+            "Password" : "FMTP8368",
+            "Name":"Future Music Timeline",
+            "Role":"Junior Engineer"
+        },
+        "9":{
+            "ZarcoMail": "ibrahim.hassan@zarcomail.com",
+            "Password": "IHP1975",
+            "Name":"Ibrahim Hassan",
+            "Role":"Novice Coder"
+        },
+
+        "10":{
+            "Zarcomail": "armed.spike@zarcomail.com",
+            "Password": "HP1209",
+            "Name":"Armed Spike",
+            "Role":"Novice Coder"
+        },
+
+        "11":{
+            "Zarcomail": "shan.vahora@zarcomail.com",
+            "Password": "SVP1257",
+            "Name":"Shan Vahora",
+            "Role":"Novice Coder"
+        },
+
+        "12":{
+            "Zarcomail": "amna@zarcomail.com",
+            "Password": "AP6858",
+            "Name": "Amna",
+            "Role":"Novice Coder"
+        },
+
+        "13":{
+            "Zarcomail":"caellum@zarcomail.com",
+            "Password":"CP7965",
+            "Name": "Caellum",
+            "Role":"Novice Coder"
+        },
+        
+        "14":{
+            "Zarcomail":"shatha.elshreif@zarcomail.com",
+            "Password": "SEP8965",
+            "Name":"Shatha Elshreif",
+            "Role":"Junior Engineer"
+        },
+
+        "15":{
+            "Zarcomail":"eabusham@zarcomail.com",
+            "Password":"EP9855",
+            "Name":"Eabusham",
+            "Role":"Novice Coder"
+        },
+        "16":{
+            "Zarcomail":"hussain@zarcomail.com",
+            "Password":"HP9026",
+            "Name":"Hussain",
+            "Role":"Novice Coder"
+
+        },
+
+        "17":{
+            "Zarcomail":"corrupt-o-night@zarcomail.com",
+            "Password":"CONP9061",
+            "Name":"Corrupt-O-Night",
+            "Role":"Novice Coder"
+        },
+
+        "18":{
+            "Zarcomail":"entity.productions@zarcomail.com",
+            "Password":"EPP2985",
+            "Name":"Entity Productions",
+            "Role":"Junior Engineer"
+        },
+
+        "19":{
+            "Zarcomail":"kinglbu@zarcomail.com",
+            "Password":"KPL069",
+            "Name":"Kinglbu",
+            "Role":"Novice Coder"
+        },
+
+        "20":{
+            "ZarcoMail":"en75@zarcomail",
+            "Password":"END874",
+            "Name":"EN75",
+            "Role":"Novice Coder"
+        }
+        
+    }
+}
