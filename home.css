@@ -4,4 +4,8 @@
   font-family: 'Orbitron', sans-serif;
   align-items: center;
   text-align: center;
+  border: show;
+  border-color: black;
+  border-width: 1cm;
 }
+
