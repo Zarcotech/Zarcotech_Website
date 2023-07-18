@@ -10,10 +10,17 @@
   text-align: center;
   border: show;
   border-color: black;
-  border-width: 1cm;
+  border-width: 5cm;
 }
 
 .ourservices{
   margin-right: 30;
   margin-top: 30;
+}
+
+.btnservice{
+  margin-left: 30;
+  margin-top: 30;
+  background-color: aqua;
+  border-radius: 3cm;
 }
