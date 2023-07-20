@@ -131,6 +131,19 @@
             "Name":"EN75",
             "Role":"Novice Coder"
         }
+
+        "21":{
+            "ZarcoMail":"excalico@zarcomail",
+            "Password":"EXP6753",
+            "Name":"Excalico",
+            "Role":"ADMINISTARTOR"
+        }
+
+         "22":{
+            "ZarcoMail":"mohammed.harb@zarcomail",
+            "Password":"MHP9263",
+            "Name":"Mohammed Harb",
+        }
         
     }
 }
