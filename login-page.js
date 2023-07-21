@@ -17,8 +17,6 @@ loginButton.addEventListener("click", async (e) => {
     } else {
       loginErrorMsg.style.opacity = 1;
     }
-  } catch (error) {
-    console.log(error);
   }
 });
 
