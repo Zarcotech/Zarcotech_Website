@@ -18,7 +18,7 @@ loginButton.addEventListener("click", async (e) => {
       loginErrorMsg.style.opacity = 1;
     }
   } catch (error) {
-    console.error('Error fetching accounts:', error);
+    console.log('Error fetching accounts:', error);
   }
 });
 
